@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Feedatron/First-React-Project/static/css/main.914128c8.chunk.css",
+    "main.js": "/Feedatron/First-React-Project/static/js/main.f70984c3.chunk.js",
+    "main.js.map": "/Feedatron/First-React-Project/static/js/main.f70984c3.chunk.js.map",
+    "runtime-main.js": "/Feedatron/First-React-Project/static/js/runtime-main.62065518.js",
+    "runtime-main.js.map": "/Feedatron/First-React-Project/static/js/runtime-main.62065518.js.map",
+    "static/js/2.de2e0d0f.chunk.js": "/Feedatron/First-React-Project/static/js/2.de2e0d0f.chunk.js",
+    "static/js/2.de2e0d0f.chunk.js.map": "/Feedatron/First-React-Project/static/js/2.de2e0d0f.chunk.js.map",
+    "index.html": "/Feedatron/First-React-Project/index.html",
+    "static/css/main.914128c8.chunk.css.map": "/Feedatron/First-React-Project/static/css/main.914128c8.chunk.css.map",
+    "static/js/2.de2e0d0f.chunk.js.LICENSE.txt": "/Feedatron/First-React-Project/static/js/2.de2e0d0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62065518.js",
+    "static/js/2.de2e0d0f.chunk.js",
+    "static/css/main.914128c8.chunk.css",
+    "static/js/main.f70984c3.chunk.js"
+  ]
+}
